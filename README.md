@@ -1,10 +1,10 @@
-# Benefinding — static site
+# ResourceFindr — static site
 
-Static, front-end-only duplicate of the usaassistance.org design, rebranded to **Benefinding**.
+Static, front-end-only duplicate of the usaassistance.org design, rebranded to **ResourceFindr**.
 No backend: no lead capture, no analytics, no pixels, no ClickVault. Pure HTML/CSS + a few lines
 of vanilla JS for the form, the demographics quiz, and the disclaimer toggle.
 
-**Live:** https://bitcoin4eva.github.io/moneyflow/
+**Live:** https://resourcefindr.com (GitHub Pages, repo `Bitcoin4eva/resourcefindr`, DNS on Cloudflare)
 
 ## Pages
 
